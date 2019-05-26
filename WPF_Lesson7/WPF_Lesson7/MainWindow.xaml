@@ -15,10 +15,17 @@
         <Button x:Name="btnRevomeEmp" Content="Remove" HorizontalAlignment="Left" Margin="25,80,0,0" VerticalAlignment="Top" Width="74" Grid.Column="1" Click="BtnRevomeEmp_Click"/>
         <Button x:Name="btnChengeEmp" Content="Chenge" HorizontalAlignment="Left" Margin="25,105,0,0" VerticalAlignment="Top" Width="74" Grid.Column="1" Click="BtnChengeEmp_Click"/>
         <DataGrid x:Name="EmployeeDataGrid" 
-                  Margin="115.5,25,40,48" ItemsSource="{Binding}" IsReadOnly="True" Grid.Column="1">
+                  Margin="115,41,40,48" ItemsSource="{Binding}" IsReadOnly="True" Grid.Column="1">
             <DataGrid.Columns>
 
             </DataGrid.Columns>
         </DataGrid>
+        <Button x:Name="btnAddDep" Content="ADD" HorizontalAlignment="Left" Margin="35,54,0,0" VerticalAlignment="Top" Width="74" Click="BtnAddDep_Click"/>
+        <Button x:Name="btnRevomeDep" Content="Remove" HorizontalAlignment="Left" Margin="35,80,0,0" VerticalAlignment="Top" Width="74" Click="BtnRevomeDep_Click" />
+        <Button x:Name="btnChengeDep" Content="Chenge" HorizontalAlignment="Left" Margin="35,104,0,0" VerticalAlignment="Top" Width="74" Click="BtnChengeDep_Click"/>
+        <Label Content="Department" HorizontalAlignment="Left" Margin="167,8,0,0" VerticalAlignment="Top"/>
+        <Label Content="Employee" HorizontalAlignment="Left" Margin="200,10,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <DataGrid x:Name="DepartamentDataGrid" 
+            Margin="115,41,33,40" ItemsSource="{Binding}" IsReadOnly="True"/>
     </Grid>
 </Window>
