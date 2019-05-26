@@ -1,0 +1,17 @@
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.csprojAssemblyReference.cache
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\MainWindow.g.cs
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\App.g.cs
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7_MarkupCompile.cache
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7_MarkupCompile.lref
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\bin\Debug\WPF_Lesson7.exe.config
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\bin\Debug\WPF_Lesson7.exe
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\bin\Debug\WPF_Lesson7.pdb
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\MainWindow.baml
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.g.resources
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.Properties.Resources.resources
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.csproj.GenerateResource.cache
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.csproj.CoreCompileInputs.cache
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.exe
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\WPF_Lesson7.pdb
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\editWindow.g.cs
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\WPF_Lesson7\obj\Debug\editWindow.baml
