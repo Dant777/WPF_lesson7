@@ -5,3 +5,10 @@ G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\Test\ob
 G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\Test\obj\Debug\Test.exe
 G:\Обучение\GeekBrain\С#_level2\Урок_7\Lesson_7\WPF_Lesson7\Test\obj\Debug\Test.pdb
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\bin\Debug\Test.exe.config
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\bin\Debug\Test.exe
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\bin\Debug\Test.pdb
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\obj\Debug\Test.csprojAssemblyReference.cache
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\obj\Debug\Test.exe
+G:\Обучение\GeekBrain\С#_level2\Урок_7\Les_7\WPF_Lesson7\Test\obj\Debug\Test.pdb

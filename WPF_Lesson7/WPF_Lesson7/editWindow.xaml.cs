@@ -12,6 +12,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Diagnostics;
 
 namespace WPF_Lesson7
 {
@@ -21,13 +22,23 @@ namespace WPF_Lesson7
     public partial class editWindow : Window
     {
         public DataRow resultRow { get; set; }
+        /// <summary>
+        /// Имя департамента
+        /// </summary>
+        public string depName { get; set; }
 
-
-        public editWindow(DataRow dataRow)
+        /// <summary>
+        /// Конструктор для добавления трудяг с входным именем депортамента для трудяги
+        /// </summary>
+        /// <param name="dataRow">Входная строка</param>
+        /// <param name="depName">Имя департамента</param>
+        public editWindow(DataRow dataRow, string depName)
         {
             InitializeComponent();
             resultRow = dataRow;
+            this.depName = depName;
         }
+
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
@@ -41,7 +52,7 @@ namespace WPF_Lesson7
             resultRow["FIO"] = txtAddNameEmp.Text;
             resultRow["Age"] = txtAddAgeEmp.Text;
             resultRow["Salary"] = txtAddSalaryEmp.Text;
-            
+            resultRow["Department"] = depName;
             this.DialogResult = true;
         }
 

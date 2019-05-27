@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Lesson7"
         mc:Ignorable="d"
-         Title="Add Department" Loaded="Window_Loaded" Height="150" Width="205">
+         Title="Add Department" Loaded="Window_Loaded" Height="150" Width="210">
     <Grid x:Name="addStackPanel">
         <Label Content="Name" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top"/>
         <TextBox Name="txtAddNameDep" HorizontalAlignment="Left" Height="25" Margin="10,30,0,0"

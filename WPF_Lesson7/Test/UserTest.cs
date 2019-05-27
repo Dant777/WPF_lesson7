@@ -11,5 +11,6 @@ namespace Test
         public string FIO;
         public string Age;
         public string Salary;
+        public string Dep;
     }
 }
